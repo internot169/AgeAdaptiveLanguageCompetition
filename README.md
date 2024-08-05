@@ -6,3 +6,6 @@ Better models to predict language loss and change are needed.
 We propose a network-based model to model competition between languages,
 which depends on an individual’s interactions with other languages, and on the
 individual’s ability to learn a new language, based on their age.
+
+
+Run main.ipynb to replicate experiments.
